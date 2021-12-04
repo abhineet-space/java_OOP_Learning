@@ -1,4 +1,4 @@
-import java.util.Scanner1;
+import java.util.Scanner;
 
 // Find Sum of all the digits of given number
 public class p11 {
